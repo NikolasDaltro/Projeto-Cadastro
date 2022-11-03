@@ -1,11 +1,19 @@
 {
-    "users":[{
-        "id": 1,
-        "name": "Iury Daltro",
-        "email": "iurydaltro@daltro.com"
-    },{
-        "id":2,
-        "name":"Maria Julia da Silva",
-        "email": "mjds@maria.com"
-}]
+  "users": [
+    {
+      "id": 1,
+      "name": "Iury Daltro",
+      "email": "iurydaltro@daltro.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@maria.com"
+    },
+    {
+      "name": "Mônica Martins",
+      "email": "monicadonikolas@mesmo.com",
+      "id": 3
+    }
+  ]
 }
